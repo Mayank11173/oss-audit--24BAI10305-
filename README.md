@@ -1,8 +1,8 @@
 # Open Source Audit Capstone Project: Python
 
-**Student Name:** Mayank Kandpal 
-**Registration Number:** 24BAI10305  
-**Chosen Software:** Python  
+***Student Name:** Mayank Kandpal 
+***Registration Number:** 24BAI10305  
+***Chosen Software:** Python  
 
 ## Project Overview
 This repository contains the practical shell scripting component of the Open Source Audit capstone project [3]. It accompanies a detailed report auditing the Python programming language, including its origin story, an analysis of the Python Software Foundation (PSF) License, its footprint on a Linux filesystem, its broader FOSS ecosystem, and a comparison against proprietary alternatives like MATLAB [2, 4-6].
