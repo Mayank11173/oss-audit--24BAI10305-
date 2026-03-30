@@ -1,7 +1,6 @@
 # Open Source Audit Capstone Project: Python
 
 ***Student Name:** Mayank Kandpal 
-
 ***Registration Number:** 24BAI10305  
 ***Chosen Software:** Python  
 
